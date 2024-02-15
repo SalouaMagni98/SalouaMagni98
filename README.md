@@ -52,7 +52,7 @@ I'm Saloua Magni, a web developer passionate about crafting digital experiences 
 ### Contact Information
 
 - Email: salouamagni@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/salwa-magni-5bb65113a/)
+- LinkedIn: ([https://www.linkedin.com/in/saloua-magni/])
 
 ---
 
