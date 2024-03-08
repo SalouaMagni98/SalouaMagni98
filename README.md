@@ -17,7 +17,7 @@ Hi! I'm Saloua Magni, a web developer passionate about crafting digital experien
 
 ### Get in Touch 📫
 - Email: salouamagni@gmail.com 📧
-- LinkedIn: ([linkedin.com/in/saloua-magni/]) 🌐
+- LinkedIn: ([(https://www.linkedin.com/in/saloua-magni)/]) 🌐
 - Portfolio: ([(https://troopl.com/salouamagni)/]) 🌐
 
 ---
