@@ -1,22 +1,24 @@
-### Hi there 👋
+### About me 💬
 
-I'm Saloua Magni, a web developer passionate about crafting digital experiences using Ruby, Ruby on Rails, and C# .NET technologies. 
+Hi! I'm Saloua Magni, a web developer passionate about crafting digital experiences using web technologies.
 
-🔭 I’m currently working on [Lifeline - Health App](https://github.com/ghitaaachab/lifeline)
+---
 
-🌱 I’m currently learning new techniques and technologies to stay up-to-date with the ever-evolving tech landscape.
+### What I Do 💼
+
+🌱 I'm actively learning the MERN stack (MongoDB, Express.js, React.js, and Node.js). This full-stack development approach allows me to build modern web applications with both front-end and back-end capabilities.
 
 👯 I’m looking to collaborate on open-source projects that contribute positively to the community and push the boundaries of technology.
 
-🤔 I’m looking for help with mastering advanced concepts in software engineering and architecture.
+💬 Ask me about web development, Ruby, Ruby on Rails, MERN stack, or anything related to software development. I'm always eager to share knowledge and learn from others.
 
-💬 Ask me about web development, Ruby, Ruby on Rails, C# .NET, or anything related to software development. I'm always eager to share knowledge and learn from others.
 
-📫 How to reach me: salouamagni@gmail.com
+---
 
-😄 Pronouns: She/Her
-
-⚡ Fun fact: I enjoy experimenting with new programming languages and frameworks in my spare time, and I'm an avid fan of sci-fi literature and movies.
+### Get in Touch 📫
+- Email: salouamagni@gmail.com 📧
+- LinkedIn: ([linkedin.com/in/saloua-magni/]) 🌐
+- Portfolio: ([(https://troopl.com/salouamagni)/]) 🌐
 
 ---
 
@@ -32,27 +34,4 @@ I'm Saloua Magni, a web developer passionate about crafting digital experiences 
 ---
 
 
-### Education
-- **Full stack web development: Ruby on Rails & JavaScript**
-  - Le Wagon Casablanca , 2024
-    
-- **Bachelor's degree in computer method applied to business management**
-  - Faculty of Technical Sciences Settat, 2022  
-
----
-
-### Interests
-
-- traveking
-- Photography
-- Cooking
-
----
-
-### Contact Information
-
-- Email: salouamagni@gmail.com
-- LinkedIn: ([https://www.linkedin.com/in/saloua-magni/])
-
----
 
