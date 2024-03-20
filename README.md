@@ -1,33 +1,20 @@
-## About me 💬
+## About me 💬  
+Hi! I'm Saloua Magni, a passionate Full-stack web developer.
 
-Hi! I'm Saloua Magni, a web developer passionate about crafting digital experiences using web technologies.
+## What I Do 💼  
+🌱 I'm actively learning the MERN stack (MongoDB, Express.js, React.js, and Node.js).
 
----
+💬 Ask me about web development, Ruby, Ruby on Rails, MERN stack.
 
-## What I Do 💼
+## Get in Touch 📫  
+Email: salouamagni@gmail.com 📧  
+LinkedIn: [Saloua Magni](https://www.linkedin.com/in/saloua-magni/) 🌐  
+Portfolio: [Saloua Magni's Portfolio](https://troopl.com/salouamagni) 🌐  
 
-🌱 I'm actively learning the MERN stack (MongoDB, Express.js, React.js, and Node.js). This full-stack development approach allows me to build modern web applications with both front-end and back-end capabilities.
-
-👯 I’m looking to collaborate on open-source projects that contribute positively to the community and push the boundaries of technology.
-
-💬 Ask me about web development, Ruby, Ruby on Rails, MERN stack, or anything related to software development. I'm always eager to share knowledge and learn from others.
-
-
----
-
-## Get in Touch 📫
-- Email: salouamagni@gmail.com 📧
-- LinkedIn: https://www.linkedin.com/in/saloua-magni/ 🌐
-- Portfolio: https://troopl.com/salouamagni 🌐
-
----
-
-
-## Skills 🛠️
-
-- Programming Languages: Ruby, C#, JavaScript
-- Frameworks: Ruby on Rails, .NET Core, React
-- Tools & Technologies: Git, Docker, SQL, RESTful APIs
+## Skills 🛠️  
+Programming Languages: Ruby, JavaScript  
+Frameworks: Ruby on Rails, MERN stack  
+Tools & Technologies: Git, SQL, RESTful APIs  
 
 ---
 
